@@ -28,6 +28,13 @@ main tool you need — this guide walks you from a fresh account to your first s
 5. **Paid.** If your entry places, you claim the prize in USDC to the wallet that signed your
    entry.
 
+| Phase | Roughly when |
+|---|---|
+| Entries open | From the moment the bounty is published until its deadline |
+| Final check | Starts at the deadline; referral and grading checks run here |
+| Results | Published once every check and re-check has a verdict |
+| Claims | Winners claim promptly; unclaimed prizes can pass down the standings |
+
 Three habits separate the people who win from the people who almost win: read the rules before
 writing anything, run the kit's own checks before submitting, and leave yourself time to fix a
 rejection and enter again.
@@ -162,6 +169,19 @@ Build it, bundle the transcripts, run the checks, submit it, and follow the resu
 The skill page teaches your agent the full loop: connecting to your account, picking a
 bounty, building, submitting, and claiming if the entry places. Give it a time budget and
 glance at its choice of bounty before it starts.
+
+## Tips from a fellow entrant
+
+- **Submit a decent first version early.** Deadlines on make.fun are hard, and the entry that
+  exists beats the entry that was almost ready. You can almost always improve and resubmit.
+- **Treat a rejection as a checklist, not a verdict.** The status page names the exact check
+  that failed and how to fix it; most rejections are one small fix away from passing.
+- **Keep your build in one session.** Splitting work across half a dozen chats makes the
+  transcripts harder to bundle cleanly. One session, several passes.
+- **Watch the clock in UTC.** Deadlines are posted in UTC on the bounty page; convert them to
+  your own timezone once, at the start, and write the local time down.
+- **Screenshot-worthy work wins twice.** Bounties judged by people reward entries that explain
+  themselves. Write the README you would want to land on.
 
 ## Your own referral link
 
